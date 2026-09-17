@@ -1,0 +1,16 @@
+# Reference clones (Agent-S, browser-use, OmniParser, anthropic-quickstarts) —
+# third-party inspiration repos, not part of this project's own code.
+RnD/
+
+.venv/
+__pycache__/
+*.pyc
+
+# Runtime artifacts from actual agent runs
+step_log.jsonl
+form_step_log.jsonl
+form_submitted.json
+task_history.md
+
+# Debug screenshots from development (not curated demo output)
+sandbox/*.png

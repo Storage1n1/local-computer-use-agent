@@ -1,0 +1,7 @@
+{
+  "name": "Jane Doe",
+  "email": "jane@example.com",
+  "city": "New York",
+  "agreed": true,
+  "status": "success"
+}

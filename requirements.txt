@@ -1,0 +1,8 @@
+# agent.py (direct desktop control)
+pyautogui
+requests
+
+# agent_sandbox.py / vision_zoom.py / ocr.py (sandbox runtime — also installed in sandbox/Dockerfile)
+pillow
+opencv-python-headless
+numpy
